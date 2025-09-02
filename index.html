@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+<meta charset="UTF-8">
 <html lang="pt-br">
 <head>
-    <meta charset="UTF--8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio pessoal do Bruno Guedes</title>
     <style>
@@ -47,6 +48,61 @@
         nav a:hover {
             background-color: white;
             color: #001f3f;
+        }
+
+        .content {
+            margin-top: 3rem;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        .button-group {
+            margin-top: 2rem;
+            display: flex;
+            justify-content: center;
+            gap: 20px; /* Espaçamento entre os botões */
+            flex-wrap: wrap; /* Para quebrar a linha em telas menores */
+        }
+
+        .button-group a {
+            color: white;
+            text-decoration: none;
+            font-size: 1em;
+            padding: 12px 25px;
+            border: 2px solid white;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s, transform 0.2s ease-in-out;
+            display: inline-block; /* Para que o padding funcione corretamente */
+        }
+
+        .button-group a:hover {
+            background-color: white;
+            color: #001f3f;
+            transform: translateY(-3px); /* Efeito de "levantar" ao passar o mouse */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Portfolio pessoal do Bruno Guedes</h1>
+    </header>
+
+    <main class="content">
+         <p>Bem-vindo ao meu portfólio. Use os links abaixo para navegar pelas seções.</p>
+
+         <div class="button-group">
+             <a href="link123" class="button-link">Sobre Mim</a>
+             <a href="link123" class="button-link">Formação</a>
+             <a href="link123" class="button-link">Portfólio</a>
+             <a href="link123" class="button-link">Contato</a>
+         </div>
+     </main>
+ </div>
+
+ </body>
+ </html>
         }
 
         .content {
