@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2247f6-424b-41a1-b24d-85ac9bf1a55d" name="Changes" comment="Todos os arquivos criados para o projeto.">
+    <list default="true" id="ba2247f6-424b-41a1-b24d-85ac9bf1a55d" name="Changes" comment="Criando forma na página principal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "01389b58",
+    "git-widget-placeholder": "14d6a6df",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756755970207</updated>
-      <workItem from="1756755971268" duration="7126000" />
+      <workItem from="1756755971268" duration="8222000" />
     </task>
     <task id="LOCAL-00001" summary="Todos os arquivos criados para o projeto.">
       <option name="closed" value="true" />
@@ -90,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756756107898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criando forma na página principal">
+      <option name="closed" value="true" />
+      <created>1756770702289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756770702289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Criando forma na página principal">
+      <option name="closed" value="true" />
+      <created>1756771254077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756771254077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Todos os arquivos criados para o projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Todos os arquivos criados para o projeto." />
+    <MESSAGE value="Criando forma na página principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando forma na página principal" />
   </component>
 </project>
